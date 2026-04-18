@@ -4,4 +4,4 @@ This Directory Is For C Projects.
 
 The Individual Project Folders Contain Individual Project README.md.
 
-Authorized Personnel Only - Gamma Group.
+Authorized Personnel Only - Gamma Group Only.
